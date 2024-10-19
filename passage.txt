@@ -1,3 +1,6 @@
 section1
+    I am Harini
+    From the department of Btech IT
+    Django is a free and open-source,Python based web framework that runs on a web server.It follows the model-template-views(MTV) architectural pattern. It is maintained by the Django Software Foundation(DSF), an independent organization established in the US as a non-profit.
 
 section2
